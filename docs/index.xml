@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://tomasbriceno.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://tomasbriceno.github.io/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
       <title>Quien soy</title>
       <link>https://tomasbriceno.github.io/docs/quien-soy/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -36,20 +27,20 @@
     
     <item>
       <title>Unidad 1: Parametric Chairs</title>
-      <link>https://tomasbriceno.github.io/docs/unidad-1/</link>
+      <link>https://tomasbriceno.github.io/docs/unidad-1-parametric-chairs/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://tomasbriceno.github.io/docs/unidad-1/</guid>
-      <description>Biografia</description>
+      <guid>https://tomasbriceno.github.io/docs/unidad-1-parametric-chairs/</guid>
+      <description>Visualización de encargos de la unidad 1.</description>
     </item>
     
     <item>
       <title>Unidad 2: Bits and Bites</title>
-      <link>https://tomasbriceno.github.io/docs/unidad-2/</link>
+      <link>https://tomasbriceno.github.io/docs/unidad-2-bits-and-bites/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://tomasbriceno.github.io/docs/unidad-2/</guid>
-      <description>Encargos de la unidad 2</description>
+      <guid>https://tomasbriceno.github.io/docs/unidad-2-bits-and-bites/</guid>
+      <description>Visualización de encargos de la unidad 2.</description>
     </item>
     
   </channel>
